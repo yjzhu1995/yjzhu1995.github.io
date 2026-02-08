@@ -1,6 +1,6 @@
 ---
 title:          "Dominance of transient rheology in far-field postseismic deformation following the 2012 Mw 7.8 Haida Gwaii and 2013 Mw 7.5 Craig earthquakes."
-date:           2024-06
+date:           2024-06-01
 selected:       true
 pub:            "Earth and Planetary Science Letters"
 # pub_pre:        "Submitted to "
