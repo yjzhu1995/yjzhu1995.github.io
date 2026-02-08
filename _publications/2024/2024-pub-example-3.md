@@ -1,22 +1,21 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Dominance of transient rheology in far-field postseismic deformation following the 2012 Mw 7.8 Haida Gwaii and 2013 Mw 7.5 Craig earthquakes."
+date:           2024-06
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "Earth and Planetary Science Letters"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:          /assets/images/covers/cover3.jpg
+The Mw 7.8 2012 Haida Gwaii earthquake and the Mw 7.5 2013 Craig earthquake occurred along the Queen Charlotte transpressive margin, two months and 340 km apart. On and near Vancouver Island, hundreds of kilometres southeast of the two events, many continuous Global Navigation Satellite Systems sites underwent no discernable coseismic motion but up to 1 cm southeast postseismic motion (away from epicenters) which lasted for only 2 – 3 years.
+#cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Yijie Zhu
+  - Kelin Wang
+  - Surui Xie
+  - Yan Jiang
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Google Scholar: https://scholar.google.com/citations?user=BFc4X6wAAAAJ&hl=en
 ---
