@@ -9,8 +9,8 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-The Mw 7.8 2012 Haida Gwaii earthquake and the Mw 7.5 2013 Craig earthquake occurred along the Queen Charlotte transpressive margin, two months and 340 km apart. On and near Vancouver Island, hundreds of kilometres southeast of the two events, many continuous Global Navigation Satellite Systems sites underwent no discernable coseismic motion but up to 1 cm southeast postseismic motion (away from epicenters) which lasted for only 2 – 3 years.
-#cover:          /assets/images/covers/cover3.jpg
+  The Mw 7.8 2012 Haida Gwaii earthquake and the Mw 7.5 2013 Craig earthquake occurred along the Queen Charlotte transpressive margin, two months and 340 km apart. On and near Vancouver Island, hundreds of kilometres southeast of the two events, many continuous Global Navigation Satellite Systems sites underwent no discernable coseismic motion but up to 1 cm southeast postseismic motion (away from epicenters) which lasted for only 2 – 3 years.
+# cover:          /assets/images/covers/cover3.jpg
 authors:
   - Yijie Zhu
   - Kelin Wang
