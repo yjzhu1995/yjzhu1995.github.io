@@ -32,17 +32,17 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of Victoria
-  #logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/uvic.png
   position: >- 
     School of Earth and Ocean Sciences <br/>
     Ph.D. Candidate
   date: May. 2021 - present
 - name: University of Victoria
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/uvic.png
   position: M.Sc. in Geophysics
   date: Sep. 2017 - Aug. 2020
 - name: University of Science and Technology of China
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ustc.png
   position: B.Sc. in Geophysics
   date: Sep. 2013 - Jul. 2017
   
