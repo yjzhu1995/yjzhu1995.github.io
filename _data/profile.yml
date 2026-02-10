@@ -24,7 +24,14 @@ short_bio: >-
   <p>
     I am currently a Ph.D. candidate at the University of Victoria and I'm defending my thesis on March 30th, 2026. About to finish!
   </p>
-
+  <br> <strong>Research Interests:</strong>
+  <ul style="margin-top: 5px;">
+    <li>Earthquake cycle deformation</li>
+    <li>Mantle rheology</li>
+    <li>Megathrust tsunamis</li>
+    <li>General subduction zone geodynmaics</li>
+    <li>Strike-slip faults</li>
+  </ul>
 
 portrait_url: /assets/images/photos/portrait.jpg
 #portrait_caption: >-
