@@ -5,7 +5,7 @@ navbar_name: "Yijie Zhu"
 positions:
 - name: Ph.D. candidate
 - name: University of Victoria
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/uvic.png  # Logo is optional
 
 
 email: "yjzhu1995@uvic.ca"
@@ -33,7 +33,7 @@ short_bio: >-
     <li>Strike-slip faults</li>
   </ul>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/myphoto.jpg
 #portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
